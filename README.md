@@ -4,6 +4,5 @@ This is the landing page for the MiSDIREKt Dataset
 
 Please find the raw data (8 GB) in the following link:
 
-Google Drive Link here
+[Google Drive Link here](https://drive.google.com/file/d/1CMrufE9IB2CGuYgBD7V_YxdymZdZPkgj/view?usp=sharing)
 
-More details, but should be sufficient for submission for now.
