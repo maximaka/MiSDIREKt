@@ -1,6 +1,7 @@
 # MiSDIREKt
 
-This is the landing page for the MiSDIREKt Dataset described in the paper [Deep learning and session-specific rapid recalibration for dynamic hand gesture recognition from EMG](https://www.frontiersin.org/articles/10.3389/fbioe.2022.1034672/full)
+This is the landing page for the MiSDIREKt Dataset described in the paper:
+[Deep learning and session-specific rapid recalibration for dynamic hand gesture recognition from EMG](https://www.frontiersin.org/articles/10.3389/fbioe.2022.1034672/full)
 
 Please find the raw data (8 GB) in the following link:
 
